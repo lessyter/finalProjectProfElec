@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shima\\source\\repos\\finalProjectProfElec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C5CBF-E8B4-4CF8-AE4C-3CA05487DCEE}|finalProjectProfElec\\finalProjectProfElec.csproj|c:\\users\\shima\\source\\repos\\finalprojectprofelec\\finalprojectprofelec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05C5CBF-E8B4-4CF8-AE4C-3CA05487DCEE}|finalProjectProfElec\\finalProjectProfElec.csproj|solutionrelative:finalprojectprofelec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C5CBF-E8B4-4CF8-AE4C-3CA05487DCEE}|finalProjectProfElec\\finalProjectProfElec.csproj|C:\\Users\\shima\\source\\repos\\finalProjectProfElec\\finalprojectprofelec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05C5CBF-E8B4-4CF8-AE4C-3CA05487DCEE}|finalProjectProfElec\\finalProjectProfElec.csproj|solutionrelative:finalprojectprofelec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shima\\source\\repos\\finalProjectProfElec\\finalProjectProfElec\\Form1.cs",
+              "RelativeDocumentMoniker": "finalProjectProfElec\\Form1.cs",
+              "ToolTip": "C:\\Users\\shima\\source\\repos\\finalProjectProfElec\\finalProjectProfElec\\Form1.cs",
+              "RelativeToolTip": "finalProjectProfElec\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:32:39.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shima\\source\\repos\\finalProjectProfElec\\finalProjectProfElec\\Form1.cs",
+              "RelativeDocumentMoniker": "finalProjectProfElec\\Form1.cs",
+              "ToolTip": "C:\\Users\\shima\\source\\repos\\finalProjectProfElec\\finalProjectProfElec\\Form1.cs [Design]",
+              "RelativeToolTip": "finalProjectProfElec\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:01:13.193Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
